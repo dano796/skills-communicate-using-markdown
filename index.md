@@ -1,2 +1,9 @@
 # H1 Header
-Adding a H1 Header to this file
+## H2 Header
+### H3 Header
+#### H4 Header
+##### H5 Header
+###### H6 Header
+Adding headers to this file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
